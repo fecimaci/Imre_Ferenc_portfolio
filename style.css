@@ -1,0 +1,59 @@
+body{
+	background-color: #787878 ;
+}
+.di_hatter2{
+	color: #808080 ;
+	background-color: #808080 ; 
+	width: 95%;  
+	margin-left: 2.5% ;
+	border: 100%; 
+	border-color:#808080; 
+	border-style: solid; 
+}
+
+.di_szoveg_hatter{
+	background-color: #dadada; 
+	width: 95%;  
+	margin-left:auto;
+	margin-right:auto;
+	border: 5px;
+	border-color:#dadada; 
+	border-style: solid; 
+	border-radius: 10px;
+	display: block;
+}
+
+.aktualis_oldal{
+	color:  #808080; 
+	background-color: #f8f8ff ;
+	border:2px;
+	border-color:#f8f8ff; 
+	border-style: inherit; 
+	border-radius: 6px;
+	font-family: "Times New Roman", Times, serif;
+}
+.tobbi_oldal{
+	color: #f8f8ff; 
+	background-color:#808080; 
+	font-family: "Times New Roman", Times, serif;
+}
+
+.h1{
+	text-align: left;
+	color: #dadada;
+	font-family: "Times New Roman", Times, serif;
+}
+.h2{
+	text-align: ;
+	color: #696969; 
+	font-family: "Times New Roman", Times, serif;
+}
+p{
+	text-align: justify;
+	color: #696969; 
+	font-family: "Times New Roman", Times, serif;
+}
+
+img{
+	border-radius: 20px;
+}
